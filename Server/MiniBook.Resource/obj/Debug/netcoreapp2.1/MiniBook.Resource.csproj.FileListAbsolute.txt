@@ -1,0 +1,13 @@
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\bin\Debug\netcoreapp2.1\MiniBook.Resource.deps.json
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\bin\Debug\netcoreapp2.1\MiniBook.Resource.runtimeconfig.json
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\bin\Debug\netcoreapp2.1\MiniBook.Resource.runtimeconfig.dev.json
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\bin\Debug\netcoreapp2.1\MiniBook.Resource.dll
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\bin\Debug\netcoreapp2.1\MiniBook.Resource.pdb
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.csproj.CoreCompileInputs.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.RazorAssemblyInfo.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.RazorAssemblyInfo.cs
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.AssemblyInfoInputs.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.AssemblyInfo.cs
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.RazorTargetAssemblyInfo.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.dll
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.pdb

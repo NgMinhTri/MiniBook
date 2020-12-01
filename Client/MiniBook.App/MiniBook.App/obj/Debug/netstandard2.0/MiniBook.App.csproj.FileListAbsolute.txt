@@ -1,0 +1,12 @@
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\bin\Debug\netstandard2.0\MiniBook.App.deps.json
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\bin\Debug\netstandard2.0\MiniBook.App.dll
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\bin\Debug\netstandard2.0\MiniBook.App.pdb
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\obj\Debug\netstandard2.0\MiniBook.App.csprojAssemblyReference.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\obj\Debug\netstandard2.0\MiniBook.App.csproj.CoreCompileInputs.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\obj\Debug\netstandard2.0\MiniBook.App.AssemblyInfoInputs.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\obj\Debug\netstandard2.0\MiniBook.App.AssemblyInfo.cs
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\obj\Debug\netstandard2.0\MiniBook.App.dll
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Client\MiniBook.App\MiniBook.App\obj\Debug\netstandard2.0\MiniBook.App.pdb

@@ -1,0 +1,14 @@
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\bin\Debug\netcoreapp2.1\MiniBook.Identity.deps.json
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\bin\Debug\netcoreapp2.1\MiniBook.Identity.runtimeconfig.json
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\bin\Debug\netcoreapp2.1\MiniBook.Identity.runtimeconfig.dev.json
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\bin\Debug\netcoreapp2.1\MiniBook.Identity.dll
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\bin\Debug\netcoreapp2.1\MiniBook.Identity.pdb
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.csprojAssemblyReference.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.csproj.CoreCompileInputs.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.RazorAssemblyInfo.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.RazorAssemblyInfo.cs
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.AssemblyInfoInputs.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.AssemblyInfo.cs
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.RazorTargetAssemblyInfo.cache
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.dll
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.pdb
