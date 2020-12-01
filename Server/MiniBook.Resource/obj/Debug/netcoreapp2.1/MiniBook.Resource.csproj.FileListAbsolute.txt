@@ -11,3 +11,4 @@ C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netc
 C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.RazorTargetAssemblyInfo.cache
 C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.dll
 C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.pdb
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Resource\obj\Debug\netcoreapp2.1\MiniBook.Resource.csprojAssemblyReference.cache

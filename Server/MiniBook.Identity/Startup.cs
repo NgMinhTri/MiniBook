@@ -29,10 +29,10 @@ namespace MiniBook.Identity
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //var connectionString = Configuration.GetConnectionString("DefaultConnection");
+            var connectionString = Configuration.GetConnectionString("DefaultConnection");
 
             services.AddDbContext<MiniBookDbContext>(
-                options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+                options => options.UseSqlServer(connectionString));
 
             services.AddIdentity<User, IdentityRole>()
                 .AddEntityFrameworkStores<MiniBookDbContext>()
@@ -41,7 +41,10 @@ namespace MiniBook.Identity
             services.Configure<IdentityOptions>(options =>
             {
                 options.Password.RequiredLength = 6;
-
+                options.Password.RequireDigit = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireUppercase = false;
             });
                 
             services.AddMvc();
