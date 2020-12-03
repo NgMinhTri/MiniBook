@@ -4615,6 +4615,21 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "MiniBook.Server.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "2.1.1",
+          "Microsoft.AspNetCore.Mvc.Core": "2.1.1",
+          "Microsoft.Extensions.Configuration.Json": "2.1.1"
+        },
+        "compile": {
+          "bin/placeholder/MiniBook.Server.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiniBook.Server.Shared.dll": {}
+        }
       }
     }
   },
@@ -12518,6 +12533,11 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "MiniBook.Server.Shared/1.0.0": {
+      "type": "project",
+      "path": "../MiniBook.Server.Shared/MiniBook.Server.Shared.csproj",
+      "msbuildProject": "../MiniBook.Server.Shared/MiniBook.Server.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12525,7 +12545,8 @@
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.9"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.9",
+      "MiniBook.Server.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12557,7 +12578,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\iAmNMT\\Desktop\\Xamarin\\MiniBook\\Server\\MiniBook.Server.Shared\\MiniBook.Server.Shared.csproj": {
+              "projectPath": "C:\\Users\\iAmNMT\\Desktop\\Xamarin\\MiniBook\\Server\\MiniBook.Server.Shared\\MiniBook.Server.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

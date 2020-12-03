@@ -12,3 +12,6 @@ C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netc
 C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.RazorTargetAssemblyInfo.cache
 C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.dll
 C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.pdb
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\bin\Debug\netcoreapp2.1\MiniBook.Server.Shared.dll
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\bin\Debug\netcoreapp2.1\MiniBook.Server.Shared.pdb
+C:\Users\iAmNMT\Desktop\Xamarin\MiniBook\Server\MiniBook.Identity\obj\Debug\netcoreapp2.1\MiniBook.Identity.csproj.CopyComplete
