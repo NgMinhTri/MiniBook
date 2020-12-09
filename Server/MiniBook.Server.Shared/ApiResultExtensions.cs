@@ -35,9 +35,7 @@ namespace MiniBook.Server.Shared
 
         private static IActionResult JsonResult(object result, HttpStatusCode statusCode = HttpStatusCode.OK)
         {
-            return new ApiJsonResult(result, statusCode);
-            
-            
+            return new ApiJsonResult(result, statusCode);                     
         }
     }
 }
